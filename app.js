@@ -54,7 +54,7 @@ mongoose
 	)
 	.then(() => {
 		console.log('App Running On Port 5000!');
-		app.listen(5000);
+		app.listen(process.env.PORT || 5000);
 	})
 	.then(() => {
 		console.log('connected to the dataBase!');
