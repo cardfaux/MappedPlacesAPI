@@ -1,0 +1,9 @@
+{
+	"env": {
+		"DB_USER": "Cardfaux",
+		"DB_PASSWORD": "Fsuore1234",
+		"DB_NAME": "mappedPlaces",
+		"GOOGLE_API_KEY": "AIzaSyBefhx6KnCsg7u7XCGJ-bZ1ThVF-agirvo",
+		"JWT_KEY": "super_secret_dont_share"
+	}
+}
